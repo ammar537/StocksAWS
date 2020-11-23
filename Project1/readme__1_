@@ -1,0 +1,3 @@
+For uploading the textfiles
+run ./q_upload.sh amzn.us.txt
+curl data link as in stox_api_spec.py
